@@ -1,6 +1,6 @@
 // primitive
 
-/// 7 types: String, Number,Boolean,null,symbol,BigInt
+/// 7 types: String, Number,Boolean, undefined ,null,symbol,BigInt
 
 //const score =100
 const scoreValue=100.3
@@ -28,4 +28,23 @@ const heros =["salman","ritik","ranbir"]
  }
 
  console.log(typeof bignumber);
+
+
+ //+++++++++++++++++++++++++++++++
+
+ //stack ( primitive),heap (non primitive)
+
+
+
+
+
+
+
+
+
+
+ let myYoutubename ="hiteshchoudharydot.com"
+
+
+ 
  
